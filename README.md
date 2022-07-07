@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehuezod
 - 👀 I’m interested in creating web and desktop apps
-- 🌱 I’m currently learning front-end html, css, javascript
+- 🌱 I’m currently learning OOP with Java and JavaFX. Already used to working with front-end technologies.
 - 💞️ I’m looking to collaborate on anything I can help.
 
 <!---
