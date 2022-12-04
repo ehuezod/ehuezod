@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ehuezod
-- 👀 I’m interested in creating web and desktop apps
-- 🌱 I’m currently learning OOP with Java and JavaFX. Already used to working with front-end technologies.
-- 💞️ I’m looking to collaborate on anything I can help.
+Hello! I'm @ehuezod. I am a Software Developer specialized in full stack web applications.
+I have developed experience in the following technologies:
+- Front End (HTML, CSS and JavaScript)
+- Backend Development with .Net Framework
+- SQL and NoSQL data bases such as MongoDB, MySQL and SQLServer
+- React, JQuery and Bootstrap
+- Agile methodologies (Scrum)
 
-<!---
-ehuezod/ehuezod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In this profile you'll find some of my personal projects that show the process that I've had to get to my current level. I can write that effectively solves problems and get involved in any part of the development process, from requirement specification, to planning, execution and maintenance of ongoin projects.
+
+I'm interested in showcasing these skills and help to make other projects successful.
