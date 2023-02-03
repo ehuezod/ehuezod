@@ -1,7 +1,7 @@
 Hello! I'm @ehuezod. I am a Software Developer specialized in full stack web applications.
 I have developed experience in the following technologies:
 - Front End (HTML, CSS and JavaScript)
-- Backend Development with .Net Framework
+- Backend Development with .Net
 - SQL and NoSQL data bases such as MongoDB, MySQL and SQLServer
 - React, JQuery and Bootstrap
 - Agile methodologies (Scrum)
